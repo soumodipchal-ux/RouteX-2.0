@@ -1,0 +1,6 @@
+{
+  "name": "RouteX - Explore Beyond the Usual",
+  "description": "Discover Hidden Bengal. Plan Smarter. Travel Better. West Bengal hidden gems, live crowd & travel intelligence, tour booking, AI trip planner, and digital QR travel pass.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
